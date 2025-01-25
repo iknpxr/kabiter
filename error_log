@@ -1,0 +1,273 @@
+[15-Jan-2025 02:51:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'username'@'localhost' (using password: YES) in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php:6
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/join_chatroom.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php on line 6
+[15-Jan-2025 02:57:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'wildrift_start'@'localhost' (using password: YES) in /home/wildrift/public_html/m.wordy.bio/get_messages.php:6
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/get_messages.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/get_messages.php on line 6
+[15-Jan-2025 02:57:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'wildrift_start'@'localhost' (using password: YES) in /home/wildrift/public_html/m.wordy.bio/get_messages.php:6
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/get_messages.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/get_messages.php on line 6
+[15-Jan-2025 02:57:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'wildrift_start'@'localhost' (using password: YES) in /home/wildrift/public_html/m.wordy.bio/send_message.php:6
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/send_message.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/send_message.php on line 6
+[15-Jan-2025 02:57:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'wildrift_start'@'localhost' (using password: YES) in /home/wildrift/public_html/m.wordy.bio/get_messages.php:6
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/get_messages.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/get_messages.php on line 6
+[15-Jan-2025 02:57:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'wildrift_start'@'localhost' (using password: YES) in /home/wildrift/public_html/m.wordy.bio/send_message.php:6
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/send_message.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/send_message.php on line 6
+[15-Jan-2025 02:57:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'wildrift_start'@'localhost' (using password: YES) in /home/wildrift/public_html/m.wordy.bio/get_messages.php:6
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/get_messages.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/get_messages.php on line 6
+[15-Jan-2025 02:57:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'wildrift_start'@'localhost' (using password: YES) in /home/wildrift/public_html/m.wordy.bio/get_messages.php:6
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/get_messages.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/get_messages.php on line 6
+[15-Jan-2025 02:57:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'wildrift_start'@'localhost' (using password: YES) in /home/wildrift/public_html/m.wordy.bio/exit_chatroom.php:6
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/exit_chatroom.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/exit_chatroom.php on line 6
+[15-Jan-2025 02:57:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'wildrift_start'@'localhost' (using password: YES) in /home/wildrift/public_html/m.wordy.bio/get_messages.php:6
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/get_messages.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/get_messages.php on line 6
+[15-Jan-2025 02:57:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'wildrift_start'@'localhost' (using password: YES) in /home/wildrift/public_html/m.wordy.bio/exit_chatroom.php:6
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/exit_chatroom.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/exit_chatroom.php on line 6
+[15-Jan-2025 02:58:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'wildrift_start'@'localhost' (using password: YES) in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php:6
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/join_chatroom.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php on line 6
+[15-Jan-2025 02:58:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'start'@'localhost' (using password: YES) in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php:6
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/join_chatroom.php(6): mysqli->__construct()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php on line 6
+[15-Jan-2025 03:04:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'wildrift_start.chatroom' doesn't exist in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php:24
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/join_chatroom.php(24): mysqli->query()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php on line 24
+[15-Jan-2025 03:04:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'wildrift_start.chatroom' doesn't exist in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php:24
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/join_chatroom.php(24): mysqli->query()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php on line 24
+[15-Jan-2025 03:08:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'wildrift_start.chatroom' doesn't exist in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php:24
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/join_chatroom.php(24): mysqli->query()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php on line 24
+[15-Jan-2025 03:10:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'code' in 'where clause' in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php:24
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/join_chatroom.php(24): mysqli->query()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php on line 24
+[15-Jan-2025 03:29:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'wildrift_start.chatrooms' doesn't exist in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php:21
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/join_chatroom.php(21): mysqli->prepare()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php on line 21
+[15-Jan-2025 03:36:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'wildrift_start.messages' doesn't exist in /home/wildrift/public_html/m.wordy.bio/chatroom.php:16
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/chatroom.php(16): mysqli->prepare()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 16
+[15-Jan-2025 03:42:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'chatroom_code' in 'where clause' in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php:21
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/join_chatroom.php(21): mysqli->prepare()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php on line 21
+[15-Jan-2025 03:44:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'wildrift_start.messages' doesn't exist in /home/wildrift/public_html/m.wordy.bio/chatroom.php:16
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/chatroom.php(16): mysqli->prepare()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 16
+[15-Jan-2025 03:48:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'chatroom_code' in 'where clause' in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php:21
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/join_chatroom.php(21): mysqli->prepare()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php on line 21
+[15-Jan-2025 03:52:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'chatroom_code' in 'where clause' in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php:21
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/join_chatroom.php(21): mysqli->prepare()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php on line 21
+[15-Jan-2025 03:54:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'chatroom_code' in 'where clause' in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php:21
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/join_chatroom.php(21): mysqli->prepare()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php on line 21
+[15-Jan-2025 03:55:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'chatroom_code' in 'where clause' in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php:21
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/join_chatroom.php(21): mysqli->prepare()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php on line 21
+[15-Jan-2025 03:56:19 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_PASS" in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php on line 16
+[15-Jan-2025 04:08:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_PASS" in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php on line 16
+[15-Jan-2025 04:10:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_PASS" in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php on line 16
+[15-Jan-2025 04:12:28 UTC] PHP Warning:  Undefined variable $mysqli in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php on line 11
+[15-Jan-2025 04:12:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php on line 11
+[15-Jan-2025 04:14:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'field list' in /home/wildrift/public_html/m.wordy.bio/chatroom.php:32
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/chatroom.php(32): mysqli->prepare()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 32
+[15-Jan-2025 04:19:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'field list' in /home/wildrift/public_html/m.wordy.bio/send_message.php:27
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/send_message.php(27): mysqli->prepare()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/send_message.php on line 27
+[15-Jan-2025 04:21:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'field list' in /home/wildrift/public_html/m.wordy.bio/send_message.php:27
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/send_message.php(27): mysqli->prepare()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/send_message.php on line 27
+[16-Jan-2025 08:43:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'chatroom_id' in 'where clause' in /home/wildrift/public_html/m.wordy.bio/chatroom.php:16
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/chatroom.php(16): mysqli->prepare()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 16
+[16-Jan-2025 08:44:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'sender' in 'field list' in /home/wildrift/public_html/m.wordy.bio/chatroom.php:15
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/chatroom.php(15): mysqli->prepare()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 15
+[16-Jan-2025 08:47:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'chatroom_id' in 'where clause' in /home/wildrift/public_html/m.wordy.bio/chatroom.php:31
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/chatroom.php(31): mysqli->prepare()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 31
+[16-Jan-2025 08:48:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'chatroom_id' in 'field list' in /home/wildrift/public_html/m.wordy.bio/send_message.php:16
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/send_message.php(16): mysqli->prepare()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/send_message.php on line 16
+[16-Jan-2025 10:57:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'wildrift_start.chatroom' doesn't exist in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php:8
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/join_chatroom.php(8): mysqli->prepare()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php on line 8
+[16-Jan-2025 12:17:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '00000' for key 'PRIMARY' in /home/wildrift/public_html/m.wordy.bio/create.php:12
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/create.php(12): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/create.php on line 12
+[16-Jan-2025 12:18:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php:8
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/join_chatroom.php(8): mysqli->prepare()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php on line 8
+[16-Jan-2025 12:20:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php:8
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/join_chatroom.php(8): mysqli->prepare()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php on line 8
+[16-Jan-2025 12:31:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php:8
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/join_chatroom.php(8): mysqli->prepare()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php on line 8
+[16-Jan-2025 12:53:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'wildirft'@'localhost' (using password: YES) in /home/wildrift/public_html/m.wordy.bio/db_config.php:8
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/db_config.php(8): mysqli->__construct()
+#1 /home/wildrift/public_html/m.wordy.bio/join_chatroom.php(3): require('/home/wildrift/...')
+#2 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/db_config.php on line 8
+[17-Jan-2025 02:06:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'wildirft'@'localhost' (using password: YES) in /home/wildrift/public_html/m.wordy.bio/db_config.php:8
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/db_config.php(8): mysqli->__construct()
+#1 /home/wildrift/public_html/m.wordy.bio/join_chatroom.php(3): require('/home/wildrift/...')
+#2 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/db_config.php on line 8
+[17-Jan-2025 02:10:35 UTC] PHP Parse error:  syntax error, unexpected identifier "wildrift_chrm" in /home/wildrift/public_html/m.wordy.bio/db_config.php on line 6
+[17-Jan-2025 02:12:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php:8
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/join_chatroom.php(8): mysqli->prepare()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/join_chatroom.php on line 8
+[17-Jan-2025 02:52:38 UTC] PHP Parse error:  Unclosed '{' on line 13 in /home/wildrift/public_html/m.wordy.bio/send_message.php on line 42
+[17-Jan-2025 02:52:47 UTC] PHP Parse error:  Unclosed '{' on line 13 in /home/wildrift/public_html/m.wordy.bio/send_message.php on line 42
+[17-Jan-2025 02:53:49 UTC] Current session username: Zebra
+[17-Jan-2025 03:09:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'wildrift_chrm.chatroom' doesn't exist in /home/wildrift/public_html/m.wordy.bio/make.php:31
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/make.php(31): mysqli->query()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/make.php on line 31
+[17-Jan-2025 04:54:51 UTC] PHP Warning:  Undefined array key "user_id" in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 12
+[17-Jan-2025 04:55:03 UTC] PHP Warning:  Undefined array key "user_id" in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 12
+[17-Jan-2025 04:55:27 UTC] PHP Warning:  Undefined array key "user_id" in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 12
+[17-Jan-2025 05:01:51 UTC] PHP Warning:  Undefined array key "username" in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 125
+[17-Jan-2025 05:01:51 UTC] PHP Warning:  Undefined array key "username" in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 125
+[17-Jan-2025 05:02:07 UTC] PHP Warning:  Undefined array key "username" in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 125
+[17-Jan-2025 05:02:07 UTC] PHP Warning:  Undefined array key "username" in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 125
+[17-Jan-2025 05:02:07 UTC] PHP Warning:  Undefined array key "username" in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 125
+[17-Jan-2025 05:02:07 UTC] PHP Warning:  Undefined array key "username" in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 125
+[17-Jan-2025 05:02:07 UTC] PHP Warning:  Undefined array key "username" in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 125
+[17-Jan-2025 05:02:07 UTC] PHP Warning:  Undefined array key "username" in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 125
+[17-Jan-2025 05:02:07 UTC] PHP Warning:  Undefined array key "username" in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 125
+[17-Jan-2025 05:03:19 UTC] PHP Warning:  Undefined array key "username" in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 125
+[17-Jan-2025 05:03:19 UTC] PHP Warning:  Undefined array key "username" in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 125
+[17-Jan-2025 05:03:19 UTC] PHP Warning:  Undefined array key "username" in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 125
+[17-Jan-2025 05:03:19 UTC] PHP Warning:  Undefined array key "username" in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 125
+[17-Jan-2025 05:03:19 UTC] PHP Warning:  Undefined array key "username" in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 125
+[17-Jan-2025 05:03:19 UTC] PHP Warning:  Undefined array key "username" in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 125
+[17-Jan-2025 05:03:19 UTC] PHP Warning:  Undefined array key "username" in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 125
+[17-Jan-2025 05:03:35 UTC] PHP Warning:  Undefined array key "username" in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 125
+[17-Jan-2025 05:03:35 UTC] PHP Warning:  Undefined array key "username" in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 125
+[17-Jan-2025 05:03:35 UTC] PHP Warning:  Undefined array key "username" in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 125
+[17-Jan-2025 05:03:35 UTC] PHP Warning:  Undefined array key "username" in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 125
+[17-Jan-2025 05:03:35 UTC] PHP Warning:  Undefined array key "username" in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 125
+[17-Jan-2025 05:03:35 UTC] PHP Warning:  Undefined array key "username" in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 125
+[17-Jan-2025 05:03:35 UTC] PHP Warning:  Undefined array key "username" in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 125
+[17-Jan-2025 05:03:35 UTC] PHP Warning:  Undefined array key "username" in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 125
+[17-Jan-2025 05:03:35 UTC] PHP Warning:  Undefined array key "username" in /home/wildrift/public_html/m.wordy.bio/chatroom.php on line 125
+[17-Jan-2025 22:37:32 UTC] PHP Warning:  PHP Startup: Invalid date.timezone value '', using 'UTC' instead in Unknown on line 0
+[17-Jan-2025 22:45:04 UTC] PHP Warning:  PHP Startup: Invalid date.timezone value '', using 'UTC' instead in Unknown on line 0
+[17-Jan-2025 22:45:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'username'@'localhost' (using password: YES) in /home/wildrift/public_html/m.wordy.bio/runner.php:8
+Stack trace:
+#0 /home/wildrift/public_html/m.wordy.bio/runner.php(8): mysqli->__construct()
+#1 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/runner.php on line 8
+[17-Jan-2025 23:16:19 UTC] PHP Warning:  Undefined variable $pdo in /home/wildrift/public_html/m.wordy.bio/admin.php on line 14
+[17-Jan-2025 23:16:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home/wildrift/public_html/m.wordy.bio/admin.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/admin.php on line 14
+[17-Jan-2025 23:22:57 UTC] PHP Warning:  Undefined variable $pdo in /home/wildrift/public_html/m.wordy.bio/admin.php on line 19
+[17-Jan-2025 23:22:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/wildrift/public_html/m.wordy.bio/admin.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wildrift/public_html/m.wordy.bio/admin.php on line 19
